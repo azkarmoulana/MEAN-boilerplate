@@ -12,5 +12,5 @@ Building An Angular 6 CRUD Application From Scratch with MongoDB, Express, Node.
 [Node](https://nodejs.org/en/)
 [Express](https://expressjs.com/)
 [MongoDB](https://www.mongodb.com/)  
-**Architectur of a MEAN application**
+**Architectur of a MEAN application**  
 ![picture](http://www.teclogiq.com/images/mean-stack-diagram.jpg)
